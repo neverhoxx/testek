@@ -28,6 +28,7 @@ body, html {
 }
 .container .foreground-img {
   width: 50%;
+  background-color: red;
 }
 
 .slider {
